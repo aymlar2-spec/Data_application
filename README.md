@@ -1,2 +1,2 @@
-﻿This a Data Application folder realised by LARGOU Ayman and LAABARTA Meriem
+﻿This a Data Application folder realised by LARGOU Ayman 
 Please Install the necessary python libraries found in requirements.txt before launching...
